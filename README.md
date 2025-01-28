@@ -11,7 +11,7 @@ The following are the new scripts developed to simulate the edge clusters, gener
 
 **plot-mig-time.py** - Used to plot the migration time available vs. taken
 
-**plot-ru-graph.py **- Used to plot the resource utilization graphs
+**plot-ru-graph.py** - Used to plot the resource utilization graphs
 
 **plot-sess-mt-from-node-sim-stats.py**  - Used to plot the sessions migrated within the migration interval
 
