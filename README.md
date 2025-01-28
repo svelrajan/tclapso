@@ -1,4 +1,4 @@
-# tclapso
+# Service Migration Time-aware Closed Loop Particle Swarm Optimization Algorithm (T-CLAPSO)
 Service Migration Time Aware Closed Loop Adaptive Particle Swarm Optimisation Algorithm
 
 The following are the new scripts developed to simulate the edge clusters, generate traffic and simulate load conditions.
